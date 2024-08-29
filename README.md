@@ -5,4 +5,4 @@
 - 🎓 Currently pursuing a diploma in Computer Science at [R.N.Shetty Polytechnic,Belagavi].
 - 🔭 Working on various projects involving [e.g., FullStack Development].
 - 🌱 Learning new technologies such as [e.g., Java, Python, HTML(CSS,JS)].
-- 📫 Reach out to me on [Insta](https://www.instagram.com/_tejas_uppar_?igsh=MXducnYybDlvM3FkYg==) or [Email](tejasuppar712@gmail.com).
+- 📫 Reach out to me on [Insta](https://www.instagram.com/_tejas_uppar_?igsh=MXducnYybDlvM3FkYg==).
